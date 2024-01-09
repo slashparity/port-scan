@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Python Port Scanner for Network Segmentation Test with Output to File
 # Note: Run with appropriate permissions and legal authorization
-#Author Vasilis Orlof (vasilis.orlof@a2secure.com) and ChatGPT :) 
+#Author Vasilis Orlof and ChatGPT :) 
 
 import socket
 import argparse
